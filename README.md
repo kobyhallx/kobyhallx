@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kobyhallx
-- 👀 I’m interested in Crypto,  DeFi and anything in between
-- 🌱 I’m currently learning TLA+
-- 💞️ I’m looking to collaborate on DeFi space
+- 👀 I’m interested in Crypto, DeFi and anything in between
+- 🌱 Currently focusing on ZK space
+- 💞️ I’m looking to collaborate on DeFi/Privacy projects
 - 📫 How to reach me https://twitter.com/kobyhallx
 
 <!---
